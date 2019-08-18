@@ -1,0 +1,20 @@
+
+Academic honesty certification:
+  Written/online sources used:
+    We informed our answers based on the code and text of the Image Pyramids
+    lab for CSC-262 provided by Professor Jerod Weinman.
+    The sunflowers image is by Bruce Fritz, taken on behalf of the USDA
+    Agricultural Research Service, and is therefore in the public domain. 
+    The brick image is by Colin M.L. Burnett and is released under the GNU Free
+    Documentation License. 
+    Finally, we used excerpts from the Szeliski and Forsyth & Ponce textbooks. 
+    Szeliski Textbook: Sections 3.5-3.5.4, Richard Szeliski, Computer Vision:
+    Algorithms and Applications, Electronic Draft, 2010. 
+    Forsyth & Ponce textbook: Sections 8.5-8.5.2, David Forsyth and Jean Ponce, 
+    Computer Vision A Modern Approach, Prentice Hall, 2003.
+  Help obtained
+    We benefited from class Q&A as well as the class Piazza discussion board.
+  Our initials below confirm that the above list of sources
+  is complete AND that we have not talked to anyone else
+  (e.g., CSC 262 students) about the solution to this problem
+  Initials:  HL, SI
